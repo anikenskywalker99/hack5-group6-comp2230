@@ -20,7 +20,7 @@ Practice with Asynchronous JavaScript concepts and APIs.
 
 ### Name 2: Gurmandeep Kaur
 
--   Was responsible for [specific tasks], focusing on [specific HTML elements].
+-   Was responsible for [making json file], focusing on [creating html file and structure].
 
 ### Name 3: Robinpreet Kaur
 
