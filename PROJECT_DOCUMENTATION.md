@@ -16,15 +16,15 @@ Practice with Asynchronous JavaScript concepts and APIs.
 
 ### Name 1: Aniken Wiens Shepherd
 
--   Worked on [specific elements] of the webpage.
+-   Worked on the JavaScript file of the webpage.
 
 ### Name 2: Gurmandeep Kaur
 
--   Was responsible for [making json file], focusing on [creating html file and structure].
+-   Was responsible for making JSON file, and focusing on creating html file and structure.
 
 ### Name 3: Robinpreet Kaur
 
--   Handled [Styles.css file], covering [font styles, background colors and hoverings.].
+-   Handled CSS file, covering font styles, background colors and hoverings.
 
 ### Name 4: Triumphant Adebayo
 
