@@ -24,7 +24,7 @@ Practice with Asynchronous JavaScript concepts and APIs.
 
 ### Name 3: Robinpreet Kaur
 
--   Handled [specific sections], covering [specific topics or features].
+-   Handled [Styles.css file], covering [font styles, background colors and hoverings.].
 
 ### Name 4: Triumphant Adebayo
 
