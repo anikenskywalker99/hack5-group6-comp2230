@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'skia-cc'; /* Choose a name to refer to your font */
+    src: local('Skia'), url('ufonts.com_skia.woff') format('woff');
+    font-weight: normal; /* Adjust based on the specific font weight */
+    font-style: normal;  /* Adjust based on the specific font style */
+}
