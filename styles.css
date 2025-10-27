@@ -4,3 +4,53 @@
     font-weight: normal; /* Adjust based on the specific font weight */
     font-style: normal;  /* Adjust based on the specific font style */
 }
+
+
+
+:root {
+  --accent-color: #00bfa5;
+}
+
+body {
+  font-family: 'skia-cc', sans-serif;
+  background-color: #f5f7fa;
+  text-align: center;
+  padding: 50px;
+}
+
+h1 {
+  color: var(--accent-color);
+}
+
+.quote-box {
+  background-color: #ffffff;
+  border-left: 4px solid var(--accent-color);
+  margin: 20px auto;
+  padding: 15px;
+  width: 300px;
+  border-radius: 8px;
+}
+
+#quote {
+  font-size: 1.1rem;
+  color: #333;
+}
+
+#author {
+  color: var(--accent-color);
+  font-style: italic;
+}
+
+button {
+  background-color: var(--accent-color);
+  color: white;
+  border: none;
+  padding: 8px 15px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #009e8e;
+}
+
