@@ -18,7 +18,7 @@
 
 ### Name 2:
 
--   Was responsible for [specific tasks], focusing on [specific HTML elements].
+-   Was responsible for [making json file], focusing on [creating html file and structure].
 
 ### Name 3:
 
